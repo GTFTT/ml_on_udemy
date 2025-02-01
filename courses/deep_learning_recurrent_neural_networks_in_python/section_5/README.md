@@ -6,3 +6,7 @@
 ### Forecasting
  - Prediction Horizon - how many steps ahead we are trying to predict.
  - Auto-regressive model - model that uses its own predictions as input for future predictions.
+
+###  LSTM and GRU
+ - LSTM - Long Short Term Memory - type of RNN that is capable of learning long-term dependencies.
+ - GRU - Gated Recurrent Unit - type of RNN that is similar to LSTM but has less parameters. It consists of a reset gate, an update gate and hidden state.
